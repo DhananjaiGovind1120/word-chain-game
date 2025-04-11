@@ -19,6 +19,8 @@
     "clsx": "^1.2.1"
   },
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.40",
+    "@types/node": "^20.10.6"
   }
 }
